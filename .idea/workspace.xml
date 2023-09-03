@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af91861-6b3d-4029-8086-011586a49149" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/base/useRouter.mjs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/prisma/schema.prisma" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server.mjs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2TK9rtJI3eieKccHpDPgkn2EUo6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.5.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.4.6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/belivup/Desktop/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/belivup/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/231.9225.18/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fs/email/_controllers" />
+      <recent name="$PROJECT_DIR$/path/user/controllers" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/routes" />
+      <recent name="$PROJECT_DIR$/fas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/fs/user/_validator" />
+      <recent name="$PROJECT_DIR$/fs/user/_validate" />
+      <recent name="$PROJECT_DIR$/fs/user/_validate/schema" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.mjs">
+    <configuration name="index.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/user/controllers/index.mjs" working-dir="$PROJECT_DIR$/routes/user/controllers">
+      <method v="2" />
+    </configuration>
+    <configuration name="userRoutes.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/user/userRoutes.mjs" working-dir="$PROJECT_DIR$/routes/user">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.mjs" />
+        <item itemvalue="Node.js.userRoutes.mjs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af91861-6b3d-4029-8086-011586a49149" name="Changes" comment="" />
+      <created>1690781107068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690781107068</updated>
+      <workItem from="1690781108060" duration="15626000" />
+      <workItem from="1690809674063" duration="11598000" />
+      <workItem from="1690864702488" duration="2332000" />
+      <workItem from="1690869485551" duration="1251000" />
+      <workItem from="1690884650905" duration="2704000" />
+      <workItem from="1690903328584" duration="1235000" />
+      <workItem from="1690912824227" duration="2337000" />
+      <workItem from="1690948083197" duration="2353000" />
+      <workItem from="1690991666083" duration="4384000" />
+      <workItem from="1691006042633" duration="3000" />
+      <workItem from="1691034283032" duration="8000" />
+      <workItem from="1691039660889" duration="381000" />
+      <workItem from="1691041085286" duration="4993000" />
+      <workItem from="1691047025183" duration="1725000" />
+      <workItem from="1691070794372" duration="3998000" />
+      <workItem from="1691096586822" duration="2724000" />
+      <workItem from="1691099615654" duration="470000" />
+      <workItem from="1691136045757" duration="1951000" />
+      <workItem from="1691166805418" duration="132000" />
+      <workItem from="1691166943928" duration="46052000" />
+      <workItem from="1691407899130" duration="6111000" />
+      <workItem from="1691428672171" duration="1107000" />
+      <workItem from="1691567133896" duration="7482000" />
+      <workItem from="1691581711433" duration="1900000" />
+      <workItem from="1691902821413" duration="1103000" />
+      <workItem from="1692173465751" duration="3348000" />
+      <workItem from="1692348876706" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.prisma" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
